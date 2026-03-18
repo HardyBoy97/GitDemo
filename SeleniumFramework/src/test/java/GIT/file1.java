@@ -27,5 +27,10 @@ public class file1 {
 	{
 	 System.out.println("Good Afternoon from US");
 	}
+	
+	public void Evening()
+	{
+	 System.out.println("Good Evening from US");
+	}
 
 }
