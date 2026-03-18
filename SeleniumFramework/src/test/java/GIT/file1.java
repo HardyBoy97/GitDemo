@@ -17,5 +17,10 @@ public class file1 {
 	{
 	 System.out.println("Hello world");
 	}
+	
+	public void Morning()
+	{
+	 System.out.println("Good Morning from India");
+	}
 
 }
